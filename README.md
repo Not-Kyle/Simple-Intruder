@@ -3,6 +3,8 @@
 ![Release](https://img.shields.io/github/v/release/Not-Kyle/Simple-Intruder?color=blue)
 ![Response Time](https://img.shields.io/badge/Latency-2--4ms-green)
 
+**Simple Intruder** is a high-performance memory safe profile intelligence tool for ROBLOX, utitlizing its current API's to generate comprehesive dossiers on any user.
+
 # Description <br />
 
 > [!NOTE]
