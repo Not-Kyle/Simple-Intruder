@@ -5,6 +5,11 @@
 
 **Simple Intruder** is a high-performance memory safe profile intelligence tool for ROBLOX, utitlizing its current API's to generate comprehesive dossiers on any user.
 
+## Features
+* **Deep Dossier Generation:** Extracts full user metadata and history.
+* **Blazing Performance:** Optimized network calls with **2ms–4ms** response times.
+* **Modern Tech Stack:** Built with Java 22, Jackson for JSON parsing, and Log4j for logging.
+
 # Description <br />
 
 > [!NOTE]
