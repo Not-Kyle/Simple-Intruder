@@ -9,7 +9,7 @@
 * **Deep Dossier Generation:** Extracts full user metadata and history.
 * **Blazing Performance:** Optimized network calls with **2ms–4ms** response times.
 * **Modern Tech Stack:** Built with Java 22, Jackson for JSON parsing, and Log4j for logging.
-
+  
 ---
 
 ## Setup Guide (Windows Only)
@@ -30,7 +30,7 @@ You need **OpenJDK 22** or newer to run this dossier tool.
 
 ---
 
-## 🏃 How to Run
+## How to Run
 1. Go to the [Releases](https://github.com/Not-Kyle/Simple-Intruder/releases) page.
 2. Download the `SimpleIntruderV1.jar`.
 3. Open your terminal (CMD) and type `java -jar` followed by a space.
