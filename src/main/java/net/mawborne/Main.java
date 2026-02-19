@@ -21,8 +21,8 @@ public class Main {
     private static final Logger LOGGER = LogManager.getLogger(Main.class);
     private static final ObjectMapper MAPPER = new ObjectMapper();
 
-    public static final String APP_VERSION = "V1";
-    public static final String APP_NAME = "Simple Intruder";
+    private static final String APP_VERSION = "V1";
+    private static final String APP_NAME = "Simple Intruder";
 
     private static final HttpClient CLIENT = HttpClient.newBuilder()
             .followRedirects(HttpClient.Redirect.NORMAL)
